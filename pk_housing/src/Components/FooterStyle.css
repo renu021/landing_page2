@@ -1,0 +1,9 @@
+.footer-container, p{
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(215, 48, 79);
+    margin: 4px 0;
+    padding: 20px 0;
+    font-size: bolder;
+}
